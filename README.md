@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I'm a seasoned software engineer with over eight years of experience, specializing in delivering efficient and effective solutions to complex challenges. My expertise lies in rapid debugging, in-depth analysis, and optimizing performance within fast-paced environments, particularly in embedded systems.
+I'm a seasoned software engineer specializing in delivering efficient and effective solutions to complex challenges. My expertise lies in rapid debugging, in-depth analysis, and optimizing performance within fast-paced environments, particularly in embedded systems.
 
 * 🌍  I'm based in Penang, Malaysia
 * ✉️  You can contact me at [firdausbzulkifli@gmail.com](mailto:firdausbzulkifli@gmail.com)
