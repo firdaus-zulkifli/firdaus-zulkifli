@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Firdaus Zulkifli
 ========================================================================================================================================
 
-Senior Software Engineer
+C++ Software Engineer
 ------------------------
 
 I'm a seasoned software engineer specializing in delivering efficient and effective solutions to complex challenges. My expertise lies in rapid debugging, in-depth analysis, and optimizing performance within fast-paced environments, particularly in embedded systems.
