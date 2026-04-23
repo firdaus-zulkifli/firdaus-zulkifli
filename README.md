@@ -42,6 +42,11 @@ I'm a seasoned software engineer specializing in delivering efficient and effect
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=firdaus-zulkifli&show_icons=true&theme=tokyonight" alt="Firdaus Stats" />
+</p>
+
 
 ### Socials
 
